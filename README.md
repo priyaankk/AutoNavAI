@@ -1,4 +1,4 @@
-# **AutoNavAI: Seamless Automation and Information Retrieval**
+# **AutoNavAI**
 
 ## **Overview**
 This project leverages AI-powered web browsing automation, enabling a bot to interact with websites in real-time, execute tasks, and fetch data autonomously. The bot can navigate, click elements, scroll, fill forms, download files, and retrieve answers based on the content of the page using advanced machine learning models like Llama. It processes actions step-by-step, ensuring efficient interaction with complex websites.
