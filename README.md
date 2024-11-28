@@ -58,6 +58,3 @@ Here’s an example of how the system interacts:
 
 ## **Contributing**
 If you would like to contribute to the project, feel free to fork the repository, submit pull requests, or open issues to suggest improvements.
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
