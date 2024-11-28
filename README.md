@@ -15,7 +15,6 @@ This project leverages AI-powered web browsing automation, enabling a bot to int
 2. **Action Detection**: Based on the query, the system generates a list of actions to take (e.g., click a button, type text).
 3. **Web Interaction**: Using Playwright, the bot interacts with the webpage—identifying elements by bounding boxes, clicking them, filling in forms, or extracting data.
 4. **Data Extraction**: The bot then performs actions such as retrieving prices or extracting other relevant information and returning it to the user.
-5. **Continuous Learning**: It uses multiple AI instances to improve its task execution by analyzing past actions and adjusting accordingly for more accurate results.
 
 ## **Prerequisites**
 - Python 3.x
@@ -26,7 +25,7 @@ This project leverages AI-powered web browsing automation, enabling a bot to int
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-interaction-ai.git
+   git clone https://github.com/priyaankk/AutoNavAI.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -62,7 +61,3 @@ If you would like to contribute to the project, feel free to fork the repository
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README` provides a concise explanation of the project, how it works, and instructions for usage, ensuring that others can understand and utilize it efficiently. Let me know if you need any adjustments!
